@@ -9,14 +9,13 @@
 
 - 🌱 I’m currently learning **"Three.js"**
 
-- 📫 How to reach me **rajasreesingamshetty5@gmail.com**
-
 - ⚡ Fun fact **Using the MERN stack means your codebase is all JavaScript, so you can avoid the dreaded 'context switch' headache between languages!**
 
 ## 🔗Connect with me: 
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/rajasree-s-411019220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rajasree-s-411019220" height="20" width="30" /></a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-Singamsetty%20Rajasree-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rajasree-s-411019220/)](https://www.linkedin.com/in/rajasree-s-411019220/)
+[![Mail](https://img.shields.io/badge/-rajasreesingamshetty5@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://mail.google.com/mail/u/0/#inbox)](mailto:rajasreesingamshetty5@gmail.com)
+
+
 
 ## What I know 💻:
 - **Programming Languages**
