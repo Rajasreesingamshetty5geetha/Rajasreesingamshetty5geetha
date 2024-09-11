@@ -127,6 +127,10 @@
 						<span><strong>Arduino</strong></span><br/>
 						<img height="50px" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />
 					</td>
+					<td width="25%" align="center">
+						<span><strong>Github</strong></span><br/>
+						<img height="50px" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+					</td>
 				</tr>
 			</tbody>
 		</table>
