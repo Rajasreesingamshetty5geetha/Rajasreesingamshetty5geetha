@@ -18,7 +18,7 @@
 
 
 ## What I know 💻:
-- **Programming Languages*
+- *Programming Languages*
 	<center>
 		<table>
 			<tbody>
